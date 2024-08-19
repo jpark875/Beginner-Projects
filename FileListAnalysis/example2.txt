@@ -1,0 +1,6 @@
+''veänkö', 'Enkö. Putoelevat
+rat vaiko 'veänkö', 'veänkö', vaiko
+putoelevat
+'Veänkö', 'Enkö',
+'Enkö', rat' Veänkö? putoelevat
+putoelevat vaiko
